@@ -71,10 +71,10 @@ The goal of this analysis is to:
 🔹Aircraft performance comparison  
 🔹Includes review count for reliability context  
 🔹Example:  
-    \t🔸Boeing 747-400 – 4.69 ⭐  
-    /t🔸Boeing 787 – 4.40 ⭐  
-    🔸A320 – 4.26 ⭐  
-    🔸Boeing 777-200 – 3.81 ⭐  
+    &nbsp;&nbsp;&nbsp;&nbsp;🔸Boeing 747-400 – 4.69 ⭐  
+    &nbsp;&nbsp;&nbsp;&nbsp;🔸Boeing 787 – 4.40 ⭐  
+    &nbsp;&nbsp;&nbsp;&nbsp;🔸A320 – 4.26 ⭐  
+    &nbsp;&nbsp;&nbsp;&nbsp;🔸Boeing 777-200 – 3.81 ⭐  
 
 ### 5️⃣ Interactive Filters
 🔹Users can dynamically filter by:  
