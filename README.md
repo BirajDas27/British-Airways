@@ -1,4 +1,4 @@
-# ✈️ British Airways Review Analysis (Tableau)
+# ✈️ **British Airways Review Analysis (Tableau)**
 
 ## 📷 Dashboard Preview
 <img width="100%" alt="Dashboard Preview" src="images/dashboard.png">
