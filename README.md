@@ -57,17 +57,17 @@ The goal of this analysis is to:
 🔸Value for Money (2.8)  
 🔸Cabin Staff Service (3.3)  
 
-### 2️⃣ 📈 Average Overall Rating by Month
+### 2️⃣ Average Overall Rating by Month
 🔹Time-series trend from 2016–2024  
 🔹Helps identify fluctuations in customer satisfaction  
 🔹Detects performance drops and improvement periods  
 
-### 3️⃣ 🌍 Average Overall Rating by Country
+### 3️⃣ Average Overall Rating by Country
 🔹Geographic distribution of ratings  
 🔹Highlights strong and weak performance regions  
 🔹Useful for regional service strategy  
 
-### 4️⃣ ✈️ Average Overall Rating by Aircraft
+### 4️⃣ Average Overall Rating by Aircraft
 🔹Aircraft performance comparison  
 🔹Includes review count for reliability context  
 🔹Example:  
@@ -76,7 +76,7 @@ The goal of this analysis is to:
     🔸A320 – 4.26 ⭐  
     🔸Boeing 777-200 – 3.81 ⭐  
 
-### 5️⃣ 🔎 Interactive Filters
+### 5️⃣ Interactive Filters
 🔹Users can dynamically filter by:  
 🔹Metric (Overall Rating, Cabin Staff, Entertainment, etc.)  
 🔹Month  
