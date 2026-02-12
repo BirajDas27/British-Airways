@@ -13,7 +13,7 @@ This project analyzes **British Airways** customer reviews to uncover insights a
 🎬 Entertainment  
 🛎️ Ground Service  
 💰 Value for Money  
-👨‍✈️ Cabin Staff Review
+👩 Cabin Staff Review
 
 The interactive **Tableau dashboard** provides a comprehensive view of **customer experience** trends over time, across countries, aircraft types, and traveler segments.
 
