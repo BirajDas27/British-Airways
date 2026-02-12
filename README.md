@@ -1,5 +1,8 @@
 # ✈️ British Airways Review Analysis (Tableau)
 
+## 📷 Dashboard Preview
+<img width="100%" alt="Dashboard Preview" src="images/dashboard.png">
+
 ## 📌 Project Overview
 
 This project analyzes British Airways customer reviews to uncover insights about passenger satisfaction across multiple dimensions such as:
@@ -95,9 +98,6 @@ This makes the dashboard fully exploratory and business-ready.
 ▫️Some aircraft types consistently outperform others.  
 ▫️Cabin staff service maintains relatively stable ratings.  
 ▫️Value for money remains moderate compared to expectations.  
-
-## 📷 Dashboard Preview
-<img width="100%" alt="Dashboard Preview" src="images/dashboard.png">
 
 ## 🚀 How to Use
 
